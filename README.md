@@ -5,7 +5,7 @@
 
 ---
 
-This repository provides **materials** for **MXB101 - Probability & Stochastic Modelling II**
+This repository provides **materials** for **MXB101 - Probability & Stochastic Modelling I**
 
 *The content for this unit are described below*
 
